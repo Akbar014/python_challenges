@@ -2,9 +2,6 @@ import imaplib # open inbox from server
 import email
 
 
-host = 'imap.gmail.com'
-username = 'akbar.cse47@gmail.com'
-password = 'ujjm riau coqc ejmu' 
 
 def get_inbox():
     mail = imaplib.IMAP4_SSL(host)
