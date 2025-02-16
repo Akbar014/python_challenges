@@ -23,8 +23,7 @@ class Template:
         with open(tamplate_path, 'r') as f:
             template_string = f.read()
         return template_string
-        
-        
+         
 
     def render(self, context=None):
         # render_ctx = context

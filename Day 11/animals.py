@@ -31,7 +31,7 @@ class wolf(Animal):             # This class inherit Animal class
     noise = "grr"
 
 
-class BabyWolf(wolf):
+class BabyWolf(wolf): 
     color = "Yellow"
 
 
