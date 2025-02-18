@@ -1,4 +1,4 @@
-gunicorn server1:app
+gunicorn server1:app 
 
 
 # chmod +x run1.sh

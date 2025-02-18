@@ -8,6 +8,10 @@ gunicorn = "*"
 uvicorn = "*"
 fastapi = "*"
 flask = "*"
+requests = "*"
+pandas = "*"
+requests-html = "*"
+lxml-html-clean = "*"
 
 [dev-packages]
 
